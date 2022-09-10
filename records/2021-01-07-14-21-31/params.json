@@ -1,0 +1,18 @@
+[
+    {
+        "PosTest_threshold": {
+            "group_1": 2.72,
+            "group_2": 424.75,
+            "group_3": 145.38
+        },
+        "blastp_cmd_path": "./packages/ncbi-blast-2.10.1+/bin/blastp",
+        "TGT_pkg_path": "/drive2/nanx/BASF/TGT_Package",
+        "Predict_Property_path": "./packages/Predict_Property",
+        "records_dir": "./records",
+        "sub_records_dir": "2021-01-07-14-21-31",
+        "cur_task": "filtering",
+        "source_folder": "selection",
+        "target_folder": "filtering",
+        "mutual_seq_identity_threshold": 1
+    }
+]

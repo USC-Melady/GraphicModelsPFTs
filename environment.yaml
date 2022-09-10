@@ -1,0 +1,15 @@
+name: SCRFs
+channels:
+  - defaults
+dependencies:
+  - python=3.7.3
+  - numpy=1.16.4
+  - h5py=2.8.0
+  - pip:
+      - pandas==0.25.1
+      - torch==1.2.0
+      - tqdm==4.46.0
+      - tensorflow-gpu==1.14.0
+      - biopython==1.77
+      - tape_proteins==0.4
+      - -e git+https://bitbucket.org/A_2/pyseqlab.git#egg=pyseqlab
