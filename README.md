@@ -1,7 +1,7 @@
 #Graphical Models for Identifying Pore-forming Proteins
 This repository provides codes for paper *Nan Xu, Theodore W. Kahn, Theju Jacob, Yan Liu, Graphical Models for Identifying Pore-forming Protein*.
 
-The below commands assume we are at location: `./project_package`.
+We put the extracted proteins in `./ExtractedProteins`. You can reproduce our experiments with the following codes, with the assumption that we are at location: `./project_package`.
 ## Requirements
 
 This code package was tested with `python 3.7.3` on Linux. For other library dependencies, you can
